@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{C5C6F7B8-A2BE-4622-B825-F52709B5935A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeğerVeReferansTipleri", "DeğerVeReferansTipleri\DeğerVeReferansTipleri.csproj", "{A59D5441-9CDA-4A18-8507-1E85F12BFF31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeğerVeReferansTipleri", "DeğerVeReferansTipleri\DeğerVeReferansTipleri.csproj", "{A59D5441-9CDA-4A18-8507-1E85F12BFF31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8208D40A-8FC3-4621-8EEA-6AE15093055C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{A59D5441-9CDA-4A18-8507-1E85F12BFF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59D5441-9CDA-4A18-8507-1E85F12BFF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59D5441-9CDA-4A18-8507-1E85F12BFF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8208D40A-8FC3-4621-8EEA-6AE15093055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8208D40A-8FC3-4621-8EEA-6AE15093055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8208D40A-8FC3-4621-8EEA-6AE15093055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8208D40A-8FC3-4621-8EEA-6AE15093055C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
