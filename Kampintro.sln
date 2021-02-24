@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeğerVeReferansTipleri", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{8208D40A-8FC3-4621-8EEA-6AE15093055C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{828E0146-38D7-425F-879E-BD12318956BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F1B597-00D7-4C60-86A2-4814CC3BBE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828E0146-38D7-425F-879E-BD12318956BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828E0146-38D7-425F-879E-BD12318956BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828E0146-38D7-425F-879E-BD12318956BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828E0146-38D7-425F-879E-BD12318956BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
